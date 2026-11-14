@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Vanya",
+  "description": "Minimal luxury clothing storefront and store operations suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
